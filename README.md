@@ -1,10 +1,9 @@
 ### Que hay de nuevo, mi nombre es Nestor. 👋
-*rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*
-<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
+*programatonpro@gmail.com*
+<img align="right" width="200" height="161" src="https://avatars2.githubusercontent.com/u/47488607?s=460&u=3211dd1582fb2bd4c63bd7d88dd99c32b08bf16a&v=4">
 
 Soy el típico chico Geek facinado por tecnologías surguientes, por ahora estoy enfocado en el desarrollo web con .NET, móvil, y basado en la nube, frecuentemente me pongo a indagar realizando experimentos con IA 🤔. <br />
 
-Por el momento 
 <br />
 
 
