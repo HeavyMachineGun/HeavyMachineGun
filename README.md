@@ -1,9 +1,6 @@
 ### Que hay de nuevo, mi nombre es Nestor. 👋
-*programatonpro@gmail.com*
-<img align="right" width="20%" height="20%" src="https://avatars2.githubusercontent.com/u/47488607?s=460&u=3211dd1582fb2bd4c63bd7d88dd99c32b08bf16a&v=4">
-[![Linkedin Badge](https://img.shields.io/badge/-nestor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nestor-mejia-perez-073630118/)
-<!--[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/-nestor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nestor-mejia-perez-073630118)](https://www.linkedin.com/in/nestor-mejia-perez-073630118/)
 [![Instagram Badge](https://img.shields.io/badge/-@nestor_m092-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nestor_m092)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-programatonpro-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:programatonpro@gmail.com)](mailto:programatonpro@gmail.com)
 
@@ -33,7 +30,7 @@ Bienvenido a mi perfil soy el típico chico Geek facinado por tecnologías surgu
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |✉️ *programatonpro@gmail.com *|
-|<a href="https://www.rohitkasale.tech/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rohit-kasale/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/rkasale28"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+| <a href="https://www.linkedin.com/in/nestor-mejia-perez-073630118/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/heavyMachineGun"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/programatonpro"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
 ⭐️ From [HeavyMachineGun](https://github.com/heavyMachineGun)
 
