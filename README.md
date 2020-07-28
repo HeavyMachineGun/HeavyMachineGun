@@ -1,7 +1,7 @@
 ### Que hay de nuevo, mi nombre es Nestor. 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-nestor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nestor-mejia-perez-073630118)](https://www.linkedin.com/in/nestor-mejia-perez-073630118/)
-[![Instagram Badge](https://img.shields.io/badge/-@nestor_m092-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nestor_m092)](https://instagram.com/jlim_slam)
+[![Instagram Badge](https://img.shields.io/badge/-@nestor_m092-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nestor_m092)](https://www.instagram.com/nestor_m092)
 [![Gmail Badge](https://img.shields.io/badge/-programatonpro-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:programatonpro@gmail.com)](mailto:programatonpro@gmail.com)
 
 Bienvenido a mi perfil 👋🏼👨🏻‍💻 soy el típico chico Geek facinado por tecnologías surguientes, por ahora estoy enfocado en el desarrollo web con .NET, móvil, y basado en la nube, frecuentemente me pongo a indagar realizando experimentos con IA 🤔 ⚡ . <br />
