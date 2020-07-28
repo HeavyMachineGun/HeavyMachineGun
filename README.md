@@ -1,4 +1,4 @@
-### Hi there. I am Rohit. 👋
+### Que hay de nuevo, mi nombre es Nestor. 👋
 *rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*
 <img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
@@ -21,10 +21,8 @@ Por el momento
 <img src="https://img.shields.io/badge/-Net%20core-622DD1?style=flat&labelColor=white&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAM1BMVEX///9iHuViHuViHuViHuViHuViHuViHuViHuViHuViHuViHuViHuViHuViHuViHuViHuVtoJH6AAAAEHRSTlMAECAwQFBgcICQoLDA0ODwVOCoyAAAAuVJREFUeNrtmdmWoyAQhtlkUVDf/2kHpECMsTXd9NScOfVf2OlIqE+KWkIYiUQikUgkEolE+uckbJa8GrDd1c0byr6XyjdvdJpfrVnhCmC761ui9b1svnmjM0D9PDbAKrABPDbAaj4BGB9swjxyvtuEVQv/ACCau9fVyp4Blu064QFMeQ0GNACbCWaOBiCyExwaADNrnhcNgPmckfEAJKQTNICSxAQaAAt5PB6AgoyMBsAcZGQ0AD7ntIgGUJwwoAGwkpHRADhk5G80JKoLABtgNjSAkpHxAKAsWjSAUhYlGgA4weNEQZKEjIwGABYWgQYAZXHCAygZGQ2glkU0ACiLDg2gOEGhAZSyiAfAISOjAZSyKNEASkbGA4CyaBYsACiLS+gOoKzitwC7E3q7gKdpZ/kEQP4KwJhbrjuA3dRtQ7IPegSw9y/3ACz8HsDwCED9AsACCeYRAHOfALhHAAaajWcAfP4AwD4Lw5RZHH85rr/c09I+Oq6/mAQ+SyKRSKRvSjkf1tmPWjAMDXNTZhE0bn3TaJ3HAUj2R1h67dhfVyz5y8DwJOLzY9pPDhjfdEfWL4t3eu9LBBNm0tC4TH60neKFpx9ursPCi+ImZdK/tXfs5rdh6xnPq5KSgk9mJABoCFIe0l+froZ1UJzanqHgTTlHW2WjxifmcjvNCAnKbOdKP5d988UrmjX70YXaRpVhMv3CUJapRwt6BKg2msbe5VGhfnnQddjEfq4WYDdqmyD1B0f5GLQqq0/ajFObr5gqgNq/fnQtHPFxR1QAkTbzZwCqSrIOCqc41Mc9MAFA3QOdUmAb9PJ1UeZmNfQBwHXKP4388Wek/I6reWDhBwDVuKxPLobcKjfrOiSPyyUuPE8W4ovhZVv4UgWG0GMPAkFSgDO6zfBWDNLVvO5Lnof5TkEAsVh7wlmX47UMJffAOJ+kKNZPKh8vyONhRXWyUO1xo0ijTedgIJFIJBKJRCKRSP+n/gA3vYpIpb32WwAAAABJRU5ErkJggg==" >
 <br />
 <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
-<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <br />
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
+<br />
 
 
 ### Contacto
