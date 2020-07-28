@@ -9,7 +9,7 @@ Bienvenido a mi perfil 👋🏼👨🏻‍💻 soy el típico chico Geek facinad
 <br />
 
 
-&nbsp; &nbsp; *[Dale un vistaso a mi CV.](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
+&nbsp; &nbsp; *[Dale un vistaso a mi CV.](https://drive.google.com/file/d/1_eEcsK9FByJNP_BpcDMrZm0c3w2bcIAI/view)*
 
 <br />
 
